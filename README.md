@@ -1,4 +1,4 @@
-# VSCode Key bindings and Extensions
+# VSCode Key bindings, User Settings, Extensions
 
 ## Extensions
 
